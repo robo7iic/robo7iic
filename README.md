@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://64.media.tumblr.com/082c899b89262f0b664fca9ca4cce0a1/decb01cca811396d-13/s1280x1920/7a5b1abb4a9787415efb1212d32360c74355dadf.gifv](https://i.postimg.cc/MT2CSmQ4/ezgif_com_animated_gif_maker_(3).gif"  />
+  <img height=400 src="https://i.postimg.cc/MT2CSmQ4/ezgif_com_animated_gif_maker_(3).gif"  />
 </div>
 
 ###
@@ -18,14 +18,8 @@
 
 ###
 
-<p align="right">graphic creds; honeystarcamper on tumblr,</p>
+<h6 align="right">CREDITS;</h6> 
+<h6 align="right">Gatorade Cap and Balloon assets by SacriStuff</h6>
+<h6 align="right">PFP overlay by comet_off on pinterest </h6>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robo7iic/robo7iic/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robo7iic/robo7iic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robo7iic/robo7iic/output/pacman-contribution-graph.svg">
-</picture>
-
-###
